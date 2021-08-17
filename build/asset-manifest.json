@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Bitamor_CIS453L_SPA/static/css/main.9d3d7d7f.chunk.css",
+    "main.js": "/Bitamor_CIS453L_SPA/static/js/main.864d537c.chunk.js",
+    "main.js.map": "/Bitamor_CIS453L_SPA/static/js/main.864d537c.chunk.js.map",
+    "runtime-main.js": "/Bitamor_CIS453L_SPA/static/js/runtime-main.7b2bb4e8.js",
+    "runtime-main.js.map": "/Bitamor_CIS453L_SPA/static/js/runtime-main.7b2bb4e8.js.map",
+    "static/js/2.43f530b9.chunk.js": "/Bitamor_CIS453L_SPA/static/js/2.43f530b9.chunk.js",
+    "static/js/2.43f530b9.chunk.js.map": "/Bitamor_CIS453L_SPA/static/js/2.43f530b9.chunk.js.map",
+    "index.html": "/Bitamor_CIS453L_SPA/index.html",
+    "static/css/main.9d3d7d7f.chunk.css.map": "/Bitamor_CIS453L_SPA/static/css/main.9d3d7d7f.chunk.css.map",
+    "static/js/2.43f530b9.chunk.js.LICENSE.txt": "/Bitamor_CIS453L_SPA/static/js/2.43f530b9.chunk.js.LICENSE.txt",
+    "static/media/BLS-class1.b66c20c2.jpg": "/Bitamor_CIS453L_SPA/static/media/BLS-class1.b66c20c2.jpg",
+    "static/media/BLS-class2.afef0d8f.jpg": "/Bitamor_CIS453L_SPA/static/media/BLS-class2.afef0d8f.jpg",
+    "static/media/BLS-class3.5a7507b9.jpg": "/Bitamor_CIS453L_SPA/static/media/BLS-class3.5a7507b9.jpg",
+    "static/media/BLS-class4.7de2416e.jpg": "/Bitamor_CIS453L_SPA/static/media/BLS-class4.7de2416e.jpg",
+    "static/media/BLS-class5.9c0f3349.jpg": "/Bitamor_CIS453L_SPA/static/media/BLS-class5.9c0f3349.jpg",
+    "static/media/ClassesIMG.80a57138.jpg": "/Bitamor_CIS453L_SPA/static/media/ClassesIMG.80a57138.jpg",
+    "static/media/SRUlogo.7db9f8f3.jpg": "/Bitamor_CIS453L_SPA/static/media/SRUlogo.7db9f8f3.jpg",
+    "static/media/americanheartblog.d2408956.png": "/Bitamor_CIS453L_SPA/static/media/americanheartblog.d2408956.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b2bb4e8.js",
+    "static/js/2.43f530b9.chunk.js",
+    "static/css/main.9d3d7d7f.chunk.css",
+    "static/js/main.864d537c.chunk.js"
+  ]
+}
