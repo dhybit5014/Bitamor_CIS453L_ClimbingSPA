@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Bitamor_CIS453L_ClimbingSPA/static/css/main.5f87a85e.chunk.css",
+    "main.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/main.f794754e.chunk.js",
+    "main.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/main.f794754e.chunk.js.map",
+    "runtime-main.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/runtime-main.2a2ed701.js",
+    "runtime-main.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/runtime-main.2a2ed701.js.map",
+    "static/js/2.f83dc1b1.chunk.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/2.f83dc1b1.chunk.js",
+    "static/js/2.f83dc1b1.chunk.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/2.f83dc1b1.chunk.js.map",
+    "index.html": "/Bitamor_CIS453L_ClimbingSPA/index.html",
+    "static/css/main.5f87a85e.chunk.css.map": "/Bitamor_CIS453L_ClimbingSPA/static/css/main.5f87a85e.chunk.css.map",
+    "static/js/2.f83dc1b1.chunk.js.LICENSE.txt": "/Bitamor_CIS453L_ClimbingSPA/static/js/2.f83dc1b1.chunk.js.LICENSE.txt",
+    "static/media/Background.3eb38520.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Background.3eb38520.jpg",
+    "static/media/Climbing1.cf61ac4c.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Climbing1.cf61ac4c.jpg",
+    "static/media/Climbing2.69b275f5.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Climbing2.69b275f5.jpg",
+    "static/media/Climbing3.d05080d4.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Climbing3.d05080d4.jpg",
+    "static/media/Climbing4.458604f1.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Climbing4.458604f1.jpg",
+    "static/media/ClimbingClass.eb64127b.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/ClimbingClass.eb64127b.jpg",
+    "static/media/FAQ.6a85f5c3.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/FAQ.6a85f5c3.jpg",
+    "static/media/HomeImage.ceeae90d.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/HomeImage.ceeae90d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a2ed701.js",
+    "static/js/2.f83dc1b1.chunk.js",
+    "static/css/main.5f87a85e.chunk.css",
+    "static/js/main.f794754e.chunk.js"
+  ]
+}
