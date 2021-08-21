@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Bitamor_CIS453L_ClimbingSPA/static/css/main.5f87a85e.chunk.css",
-    "main.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/main.722feb5a.chunk.js",
-    "main.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/main.722feb5a.chunk.js.map",
+    "main.css": "/Bitamor_CIS453L_ClimbingSPA/static/css/main.179849e6.chunk.css",
+    "main.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/main.087ad481.chunk.js",
+    "main.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/main.087ad481.chunk.js.map",
     "runtime-main.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/runtime-main.2a2ed701.js",
     "runtime-main.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/runtime-main.2a2ed701.js.map",
     "static/js/2.43f530b9.chunk.js": "/Bitamor_CIS453L_ClimbingSPA/static/js/2.43f530b9.chunk.js",
     "static/js/2.43f530b9.chunk.js.map": "/Bitamor_CIS453L_ClimbingSPA/static/js/2.43f530b9.chunk.js.map",
     "index.html": "/Bitamor_CIS453L_ClimbingSPA/index.html",
-    "static/css/main.5f87a85e.chunk.css.map": "/Bitamor_CIS453L_ClimbingSPA/static/css/main.5f87a85e.chunk.css.map",
+    "static/css/main.179849e6.chunk.css.map": "/Bitamor_CIS453L_ClimbingSPA/static/css/main.179849e6.chunk.css.map",
     "static/js/2.43f530b9.chunk.js.LICENSE.txt": "/Bitamor_CIS453L_ClimbingSPA/static/js/2.43f530b9.chunk.js.LICENSE.txt",
     "static/media/Background.3eb38520.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Background.3eb38520.jpg",
     "static/media/Climbing1.cf61ac4c.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/Climbing1.cf61ac4c.jpg",
@@ -18,12 +18,13 @@
     "static/media/ClimbingClass.eb64127b.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/ClimbingClass.eb64127b.jpg",
     "static/media/FAQ.c16aeaa9.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/FAQ.c16aeaa9.jpg",
     "static/media/HomeImage.ceeae90d.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/HomeImage.ceeae90d.jpg",
+    "static/media/index.css": "/Bitamor_CIS453L_ClimbingSPA/static/media/RockBG.f1942da8.jpg",
     "static/media/UnderMaintenance.c6ea5077.jpg": "/Bitamor_CIS453L_ClimbingSPA/static/media/UnderMaintenance.c6ea5077.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2a2ed701.js",
     "static/js/2.43f530b9.chunk.js",
-    "static/css/main.5f87a85e.chunk.css",
-    "static/js/main.722feb5a.chunk.js"
+    "static/css/main.179849e6.chunk.css",
+    "static/js/main.087ad481.chunk.js"
   ]
 }
