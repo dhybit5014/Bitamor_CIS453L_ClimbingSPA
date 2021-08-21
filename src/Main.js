@@ -12,12 +12,14 @@ import FAQ from "./FAQ";
 import logo from './ClimbingIcon.png';
 import background from './Background.jpg';
 
+
 class Main extends Component {
   render() {
     return (
         <HashRouter>
         
-        <div style={{ backgroundImage: `url(${background})` }}>
+        
+        <div className="backgroundIMG" style={{ backgroundImage: `url(${background})` }}>
           <ul className="title"> 
           <img className="logo" src={logo} />
           <h2 className="brand">Climbing 101</h2>
